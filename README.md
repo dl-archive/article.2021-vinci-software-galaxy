@@ -29,12 +29,22 @@ DOI: [10.1145/3481549.3481573](https://doi.org/10.1145/3481549.3481573) · Autho
 ```
 
 The paper was compiled in August 2021 with pdfTeX 1.40.20 (TeX Live 2019), hence the TeX Live 2019 container.
-The build reproduces the camera-ready PDF with identical text, pages, columns, line counts and figure placement; only the line breaks inside the generated "ACM Reference Format" block on page 1 differ slightly.
+On `main`, the build produces the revised version (`v1.1-revised`); check out `v1.0-camera-ready` for the camera-ready version.
+That build reproduces the camera-ready PDF with identical text, pages, columns, line counts and figure placement; only the line breaks inside the generated "ACM Reference Format" block on page 1 differ slightly.
 The sources come from the Overleaf project; six author names in `references.bib` were restored to their full form as printed in the camera-ready PDF (the Overleaf state had initials).
 
 ## Versions
 
 - [`v1.0-camera-ready`](https://github.com/dl-archive/article.2021-vinci-software-galaxy/tree/v1.0-camera-ready) – sources as submitted to ACM (2021-08-13)
+- [`v1.1-revised`](https://github.com/dl-archive/article.2021-vinci-software-galaxy/tree/v1.1-revised) – author's revised version (2026-11-10): grammar and typo fixes, see [Revisions](#revisions)
+
+## Revisions
+
+`v1.1-revised` (2026-11-10) corrects errors in the camera-ready version without changing its content or layout.
+Every page carries the note "Author's revised version (2026-11-10). Version of record: https://doi.org/10.1145/3481549.3481573".
+
+- Typo: "3D visualization techniques" (was "viusalization").
+- Grammar and word choice: "to depict software systems and software development data that usually have no inherent gestalt" (abstract), "inspired by astronomy" (abstract), "However, in many", "inspired by the astronomical metaphor", "a star with its own visual variables", "classes of NLP techniques", "Bag-of-Words vector, thus", "to color, thus", "low-resolution", "implemented using webgl-operate", "the dynamics of the development process".
 
 ## Citation
 
