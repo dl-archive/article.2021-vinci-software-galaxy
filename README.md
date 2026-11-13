@@ -4,7 +4,7 @@ Daniel Atzberger, [Willy Scheibel](https://orcid.org/0000-0002-7885-9857), [Dani
 
 *Proceedings of the 14th International Symposium on Visual Information Communication and Interaction (VINCI '21)*, September 6–8, 2021, Potsdam, Germany. ACM, pp. 24:1–2.
 
-[![Version of record: 10.1145/3481549.3481573](https://img.shields.io/badge/Version_of_record-10.1145%2F3481549.3481573-007ec6)](https://doi.org/10.1145/3481549.3481573) [![Author's version: 10.5281/zenodo.24100140](https://img.shields.io/badge/Author%27s_version-10.5281%2Fzenodo.24100140-007ec6)](https://doi.org/10.5281/zenodo.24100140) · [ResearchGate](https://www.researchgate.net/publication/354332172)
+[![Version of record: 10.1145/3481549.3481573](https://img.shields.io/badge/Version_of_record-10.1145%2F3481549.3481573-007ec6)](https://doi.org/10.1145/3481549.3481573) [![Author's version: 10.5281/zenodo.24100140](https://img.shields.io/badge/Author%27s_version-10.5281%2Fzenodo.24100140-007ec6)](https://doi.org/10.5281/zenodo.24100140) [![ResearchGate](https://img.shields.io/badge/ResearchGate-publication-00CCBB?logo=researchgate&logoColor=white)](https://www.researchgate.net/publication/354332172)
 
 > Software visualization uses metaphors to depict software system and software development data that usually has no inherent gestalt.
 > The choice of a fitting metaphor for visual display is researched broadly, but deriving a layout based on similarity is still challenging.
